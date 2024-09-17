@@ -33,5 +33,4 @@ function limpar() {
     totalGeral = 0;
     document.getElementById('lista-produtos').innerHTML = '';
     document.getElementById('valor-total').innerHTML = 'R$ 0,00';
-
 }
